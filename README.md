@@ -6,7 +6,7 @@ Polarization information is used for underwater image enhancement
 
 
 ## Training
-
+This part of the code will be released after accepted
 
 ## Evaluation
 First, you need to download the [trained model weights](https://drive.google.com/drive/folders/1AOBtjGVVCA4w3jR5agVwh-A_pYUWiVg3?usp=drive_link), or retrain the model weights yourself. [Baidu Netdisk](https://pan.baidu.com/s/1AumnlX634cOP2I4dfRkqoA?pwd=zhth )(zhth )
