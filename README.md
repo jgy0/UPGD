@@ -21,12 +21,10 @@ test_real_opt_data.py. They all load the same weight file, only slightly differe
 
 ## PUIE+PPM
 
-### train
-### test
+You just need to download our code; the other files that need to be executed for the train and test methods are the same as the original project code.
 
 ## ucolor+PPM
-### train
-### test
+You just need to download our code; the other files that need to be executed for the train and test methods are the same as the original project code.
 
  
 
