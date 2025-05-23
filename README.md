@@ -17,7 +17,7 @@ test_real_opt_data.py. They all load the same weight file, only slightly differe
 
 ### Compare the results of the method
 
-You can get the enhanced results of the comparison method at the following link. [google drive](https://drive.google.com/file/d/106B5l0kuGnFfBCjcm50R8wzyw9VQal9p/view?usp=drive_link) or  [Baidu Netdisk](https://pan.baidu.com/s/1ov5iFyIuQdLg0gUF6m5rCA?pwd=b6dp)(b6dp )
+
 
 ## PUIE+PPM
 
