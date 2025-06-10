@@ -1,5 +1,6 @@
 # UPGD
-Polarization information is used for underwater image enhancement
+A Lightweight Polarization-Guided Plug-in for Underwater Image
+Enhancement
 
 
 
