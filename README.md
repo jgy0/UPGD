@@ -19,9 +19,6 @@ test_real_opt_data.py. They all load the same weight file, only slightly differe
 
 This part of the code will be released after accepted
 
-### Compare the results of the method
-
-This part  will be released after accepted
 
 ### PUIE+PPM
 
@@ -31,4 +28,6 @@ You just need to download our code; the other files that need to be executed for
 You just need to download our code; the other files that need to be executed for the train and test methods are the same as the original project code.
 
  
+## Compare the results of the method
 
+This part  will be released after accepted
