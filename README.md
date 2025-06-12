@@ -9,7 +9,7 @@ In this project, we use Ubuntu 22.04.3 LTS, Python 3.10.13, Pytorch 2.1.1 cuda11
 ## Running
 ### Ushape+PPM
 
-#### Evaluation
+#### Test
 First, you need to download the [trained model weights](https://drive.google.com/drive/folders/1AOBtjGVVCA4w3jR5agVwh-A_pYUWiVg3?usp=drive_link), or retrain the model weights yourself. [Baidu Netdisk](https://pan.baidu.com/s/1AumnlX634cOP2I4dfRkqoA?pwd=zhth )(zhth )
 
 In the article we tested a total of three datasets, if you need to test the indoor dataset, run test.py, outdoor dataset, run test_real2.py, ucpd dataset run
