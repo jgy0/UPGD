@@ -13,8 +13,9 @@ in the paper ,we use three datasets
 <li>U300</li>
 </ol> 
 you can get them by follow  <br\>
-[RGBP-UIE](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement)
-[UCPD](https://github.com/jgy0/UPGD/blob/main/dataset/readme.md)
+<a href="https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement">RGBP-UIE</a>
+<a href="https://github.com/jgy0/UPGD/blob/main/dataset/readme.md">UCPD</a>
+
 
 ## Running
 ### Ushape+PPM
