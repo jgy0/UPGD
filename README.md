@@ -6,11 +6,11 @@ Enhancement
 In this project, we use Ubuntu 22.04.3 LTS, Python 3.10.13, Pytorch 2.1.1 cuda11.8 and one NVIDIA RTX 3090 GPU.
 
 ## datasets
-in the paper ,we use three datasets
+in the paper ,we use two datasets
 <ol>
 <li>RGBP-UIE</li> 
 <li>UCPD</li>
-<li>U300</li>
+
 </ol> 
 you can get them by follow      
 
@@ -18,7 +18,7 @@ you can get them by follow
 
 <a href="https://github.com/jgy0/UPGD/blob/main/dataset/readme.md">UCPD</a>  
 
-U300 datasets，we employed a polarization camera (LUCID, TRI050S) to capture real-world underwater imagery of harbor scenes for experimental validation. Underwater scenes were captured using a polarization camera, acquiring 11 video sequences. Four polarized sub-images (0&deg;, 45&deg;, 90&deg;, and 135&deg;) were extracted from each frame via FFmpeg, yielding 313 validated images per polarization angle after data screening.
+
 ### Ushape+PPM
 
 #### Test
