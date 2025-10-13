@@ -1,7 +1,7 @@
 
 A Lightweight Polarization-Guided Plug-in for Underwater Image
 Enhancement
-
+<img src="https://github.com/jgy0/UPGD/blob/main/img/upgd33.png">
 ## Introduction
 In this project, we use Ubuntu 22.04.3 LTS, Python 3.10.13, Pytorch 2.1.1 cuda11.8 and one NVIDIA RTX 3090 GPU.
 
