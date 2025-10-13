@@ -29,7 +29,7 @@ test_real_opt_data.py. They all load the same weight file, only slightly differe
 
 #### Training
 
-When you train your model, you only need to run train_domain.py (with Domain-adversarial Training). Or you can use the simplified version train.py
+When you train your model, First, download the  [pre-training model](https://drive.google.com/file/d/19a_kDJTT5S96kzwQntEMhSxAPYw4xY2P/view), then you only need to run train_domain.py (with Domain-adversarial Training). Or you can use the simplified version train.py
 
 
 ### PUIE+PPM
