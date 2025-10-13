@@ -1,0 +1,29 @@
+VERBOSE: True
+
+MODEL:
+  SESSION: 'UW'
+  INPUT: 'input'
+  TARGET: 'target'
+
+# Optimization arguments.
+OPTIM:
+  BATCH_SIZE: 4
+  NUM_EPOCHS: 500
+  LR_INITIAL: 2e-4 
+  LR_MIN: 1e-6
+  SEED: 3407 
+  WANDB: False
+
+TRAINING:
+  VAL_AFTER_EVERY: 1 
+  RESUME: False
+  PS_W: 256 
+  PS_H: 256 
+  TRAIN_DIR: '/home/guangyao/code/comparative_ex/data/polar_split/train'
+  VAL_DIR: '/home/guangyao/code/comparative_ex/data/ucpd'
+  SAVE_DIR: './checkpoints/baseline500/'
+  ORI: False 
+
+TESTING:
+  WEIGHT: '/home/guangyao/code/comparative_ex/ucolor_pytorch/checkpoints/UW_epoch_109.pth' #  '/home/guangyao/code/comparative_ex/ucolor_pytorch/checkpoints/UW_epoch_109.pth'
+  SAVE_IMAGES: True 
