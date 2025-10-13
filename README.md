@@ -6,7 +6,7 @@ Enhancement
 In this project, we use Ubuntu 22.04.3 LTS, Python 3.10.13, Pytorch 2.1.1 cuda11.8 and one NVIDIA RTX 3090 GPU.
 
 ## datasets
-in the paper ,we use two datasets
+in the paper, we mainly used two polarization datasets
 <ol>
 <li>RGBP-UIE</li> 
 <li>UCPD</li>
@@ -14,7 +14,7 @@ in the paper ,we use two datasets
 </ol> 
 you can get them by follow      
 
-<a href="https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement">RGBP-UIE</a>    
+<a href="https://github.com/yudongLi-dlmu/RGBP-UIE">RGBP-UIE</a>    
 
 <a href="https://github.com/jgy0/UPGD/blob/main/dataset/readme.md">UCPD</a>  
 
@@ -25,21 +25,26 @@ you can get them by follow
 First, you need to download the [trained model weights](https://drive.google.com/drive/folders/1AOBtjGVVCA4w3jR5agVwh-A_pYUWiVg3?usp=drive_link), or retrain the model weights yourself. [Baidu Netdisk](https://pan.baidu.com/s/1AumnlX634cOP2I4dfRkqoA?pwd=zhth )(zhth )
 
 In the article we tested a total of three datasets, if you need to test the indoor dataset, run test.py, outdoor dataset, run test_real2.py, ucpd dataset run
-test_real_opt_data.py. They all load the same weight file, only slightly different in the data processing part
+test_real_opt_data.py. They all load the same weight file, only slightly different in the data processing part.
 
 #### Training
 
-This part of the code will be released after accepted
+When you train your model, you only need to run train_domain.py (with Domain-adversarial Training). Or you can use the simplified version train.py
 
 
 ### PUIE+PPM
 
-You just need to download our code; the other files that need to be executed for the train and test methods are the same as the original project code.
+You just need to download our code; the other files that need to be executed for the train and test methods are the same as the [original project code](https://github.com/zhenqifu/puie-net).
 
 ### ucolor+PPM
-You just need to download our code; the other files that need to be executed for the train and test methods are the same as the original project code.
+You just need to download our code; the other files that need to be executed for the train and test methods are the same as the [original project code](github.com/CV-Reimplementation/Ucolor-Reimplementation).
 
  
-## Compare the results of the method
+## Citation
+```
 
-This part  will be released after accepted
+```
+
+## Acknowledgement
+
+Our code is based on [Ushape](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement), [PUIE](https://github.com/zhenqifu/puie-net), and [Ucolor](github.com/Li-Chongyi/Ucolor). Thanks for their outstanding contributions.
