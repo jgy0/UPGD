@@ -18,6 +18,9 @@ you can get them by follow
 
 <a href="https://github.com/jgy0/UPGD/blob/main/dataset/readme.md">UCPD</a>  
 
+In the generalization experiment, we used two classic datasets and performed random splitting. [LSUI and UIEBD](https://pan.baidu.com/s/10cw8KLKZEkEhUkLpkHCqdQ?pwd=3ph5 )
+
+
 
 ### Ushape+PPM
 
