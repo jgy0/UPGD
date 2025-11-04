@@ -45,7 +45,13 @@ You just need to download our code; the other files that need to be executed for
  
 ## Citation
 ```
-
+@article{ju2025lightweight,
+  title={A Lightweight Polarization-Guided Plug-in for Underwater Image Enhancement},
+  author={Ju, Guangyao and Zhang, Jiqing and Zang, Jingqi and Li, Yafeng and Li, Yudong and Mi, Zetian and Yang, Xin and Wang, Huibing and Fan, Jiarui and Fu, Xianping},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2025},
+  publisher={IEEE}
+}
 ```
 
 ## Acknowledgement
